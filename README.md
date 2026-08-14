@@ -97,7 +97,7 @@ A Python project developed to practice **data handling, programming logic, and b
 
 | Certificate | Issued By | Date |
 |---|---|---|
-| 🐍 Python for Beginners | — | July 2026 |
+| 🐍 Python for Beginners | Simplilearn | July 2026 |
 | 🐍 CodeAlpha Python Programming Internship | CodeAlpha | July 2026 |
 | 📄 Microsoft Office Specialist – Word 2019 Associate | Microsoft / Certiport | Feb 2024 |
 | 📊 Microsoft Office Specialist – Excel 2019 Associate | Microsoft / Certiport | Feb 2024 |
@@ -140,8 +140,11 @@ A Python project developed to practice **data handling, programming logic, and b
 </a>
 &nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-82606338a" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/ᴀʙᴅᴜʟʟᴀʜ-ᴀᴡᴀɪs-82606338a" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
+       width="45"
+       height="45"
+       alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 
