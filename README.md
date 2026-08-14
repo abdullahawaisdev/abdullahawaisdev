@@ -89,6 +89,68 @@ A Python project developed to practice **data handling, programming logic, and b
 🔗 [View Repository](https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker)
 
 ---
+## 📌 Featured Projects
+
+### 🔧 Repairing Lab – Frontend Design
+
+A modern and responsive **mobile repairing website** designed using Bootstrap, with sections for repair services, products, features, contact information, and more.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6` `Font Awesome` `jQuery`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Repairing-Lab-Frontend-Design)
+
+---
+
+### 📄 CV Resume – Frontend Design
+
+A professional and responsive **CV / Resume website** featuring profile information, education, work experience, skills, hobbies, awards, references, and contact details.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6` `Font Awesome`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/CV-Resume-Frontend-Design)
+
+---
+
+### 📦 Box Layout – Frontend Design
+
+A frontend layout project created to practice **HTML, CSS, Bootstrap, responsive layouts, spacing, and positioning**.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Box-Layout-Frontend-Design)
+
+---
+
+### 🧩 Bootstrap Column Layout – Frontend Design
+
+A responsive frontend project focused on practicing the **Bootstrap grid and column system**, including responsive layouts and Bootstrap utility classes.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Bootstrap-Column-Layout-Frontend-Design)
+
+---
+
+### 📱 Hex Helifax – Mobile Repairing Frontend Design
+
+A mobile repairing website frontend created to practice **responsive web design, Bootstrap layouts, service sections, and modern frontend styling**.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6` `Font Awesome`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Hex-Helifax-Mobile-Repairing_Frontend-Design)
+
+---
+
+### 🏨 Luxury Hotel – Frontend Design
+
+A modern **luxury hotel website frontend** designed to practice responsive layouts, website sections, styling, and Bootstrap-based design.
+
+**Tech:** `HTML5` `CSS3` `Bootstrap 4.6` `Font Awesome`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Luxury-Hotel-Frontend-Design)
+
+---
+
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
