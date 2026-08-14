@@ -21,7 +21,7 @@ Name: Abdullah Awais
 Role: C++ | Python Developer
 Currently_learning: Web Development (HTML, CSS, JS)
 Focus: "Understanding the problem before writing the code"
-goal: "Build real-world projects, problem solving and become practical developer."
+Goal: "Build real-world projects, problem solving and become practical developer."
 ```
 
 - 🛠️ Recently completed a **Python Programming Internship** at **CodeAlpha** — built small tools and apps
