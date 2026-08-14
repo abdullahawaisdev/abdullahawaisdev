@@ -89,7 +89,6 @@ A Python project developed to practice **data handling, programming logic, and b
 🔗 [View Repository](https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker)
 
 ---
-## 📌 Featured Projects
 
 ### 🔧 Repairing Lab – Frontend Design
 
