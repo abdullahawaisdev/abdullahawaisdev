@@ -135,21 +135,16 @@ A Python project developed to practice **data handling, programming logic, and b
 
 ## 📫 Connect With Me
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirzawais512@gmail.com" target="_blank">
-  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirzawais512@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/ᴀʙᴅᴜʟʟᴀʜ-ᴀᴡᴀɪs-82606338a" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2"
-       width="45"
-       height="45"
-       alt="LinkedIn"/>
+<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C%E2%80%93%E1%B4%80%E1%B4%A1%E1%B4%80%C9%AA%EA%9C%B1%E2%80%9382606338a">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-&nbsp;&nbsp;&nbsp;
 
-<a href="https://github.com/abdullahawaisdev" target="_blank">
-  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
+<a href="https://github.com/abdullahawaisdev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
@@ -157,5 +152,6 @@ A Python project developed to practice **data handling, programming logic, and b
 ⭐️ **If you find my projects useful, consider giving them a star!**
 
 </div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
