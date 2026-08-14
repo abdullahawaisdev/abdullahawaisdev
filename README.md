@@ -1,70 +1,129 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Abdullah+Awais;C%2B%2B+%7C+Python+Developer;Learning+Web+Development" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Abdullah%20Awais&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=C%2B%2B%20%7C%20Python%20Developer%20%7C%20Web%20Dev%20Learner&descAlignY=58&descSize=20"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=2E9EF7&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Abdullah+%F0%9F%91%8B;C%2B%2B+%7C+Python+Developer;Learning+Web+Development+%F0%9F%8C%90;Open+to+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=abdullahawaisdev&label=Profile%20Views&color=2E9EF7&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/abdullahawaisdev?label=Followers&style=for-the-badge&color=2E9EF7"/>
+<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🚀 About Me
+## 🚀 About Me
 
-I'm a developer working with **C++** and **Python**, currently expanding into **web development**. I like understanding a problem properly before jumping into code — most of what's in my repos is practice and real projects as I build toward being job-ready.
+```yaml
+name: Abdullah Awais
+role: C++ | Python Developer
+currently_learning: Web Development (HTML, CSS, JS)
+focus: "Understanding the problem before writing the code"
+status: Building toward job-readiness, one project at a time 🌱
+```
 
-- 🛠️ Recently completed a **Python Programming Internship** at CodeAlpha, building small tools and apps
-- 📜 Microsoft Office Specialist certified in **Word 2019** and **Excel 2019**
-- 🎯 Currently open to internships / entry-level opportunities
+- 🛠️ Recently completed a **Python Programming Internship** at **CodeAlpha** — built small tools and apps
+- 📜 Microsoft Office Specialist certified in **Word 2019** & **Excel 2019**
+- 🎯 Currently open to **internships / entry-level opportunities**
+- 💬 Ask me about **C++, Python, or beginner web dev**
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github" />
+
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| [Smart Portfolio Tracker](https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker) | 📊 Python tool to track and manage a stock/investment portfolio |
-| [Hangman Game](https://github.com/abdullahawaisdev/CodeAlpha_Hangman_Game) | 🎮 Classic Hangman game built in Python |
-| [Basic Chatbot](https://github.com/abdullahawaisdev/CodeAlpha_Basic_chatbot) | 🤖 Rule-based chatbot built in Python |
-| [Smart Campus System](https://github.com/abdullahawaisdev/Smart_Campus_System) | 🏫 C++ project for managing campus operations/data |
+<div align="center">
 
----
+<a href="https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha-Smart-prtfolio-tracker&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/abdullahawaisdev/CodeAlpha_Hangman_Game">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha_Hangman_Game&theme=tokyonight&hide_border=true" />
+</a>
+<br/>
+<a href="https://github.com/abdullahawaisdev/CodeAlpha_Basic_chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha_Basic_chatbot&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/abdullahawaisdev/Smart_Campus_System">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=Smart_Campus_System&theme=tokyonight&hide_border=true" />
+</a>
 
-### 📜 Certificates
+</div>
+
+> 💡 Tip: agar yeh pinned cards render na hoon, GitHub profile settings me repos ko **manually "Pin"** kar dena — tab yeh live data khud fetch karte hain.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 📜 Certificates
 
 | Certificate | Issued By | Date |
 |---|---|---|
-| Python for Beginners | — | July 2026 |
-| CodeAlpha Python Programming Internship | CodeAlpha | July 2026 |
-| Microsoft Office Specialist – Word 2019 Associate | Microsoft / Certiport | Feb 2024 |
-| Microsoft Office Specialist – Excel 2019 Associate | Microsoft / Certiport | Feb 2024 |
-| Emerging Technologies & Job Trends – Participation | SESS | Oct 2025 |
-| Emerging Technologies & Job Trends – Event Management | SESS | Oct 2025 |
+| 🐍 Python for Beginners | — | July 2026 |
+| 🐍 CodeAlpha Python Programming Internship | CodeAlpha | July 2026 |
+| 📄 Microsoft Office Specialist – Word 2019 Associate | Microsoft / Certiport | Feb 2024 |
+| 📊 Microsoft Office Specialist – Excel 2019 Associate | Microsoft / Certiport | Feb 2024 |
+| 🎓 Emerging Technologies & Job Trends – Participation | SESS | Oct 2025 |
+| 🎓 Emerging Technologies & Job Trends – Event Management | SESS | Oct 2025 |
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahawaisdev&show_icons=true&theme=default&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahawaisdev&layout=compact&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahawaisdev&hide_border=true" />
-</div>
-
----
+## 📊 GitHub Stats
 
 <div align="center">
 
-📫 **Reach me:** *email: mirzawais512@gmail.com linkdin: www.linkedin.com/in/ᴀʙᴅᴜʟʟᴀʜ-ᴀᴡᴀɪs-82606338a*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahawaisdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahawaisdev&layout=compact&theme=tokyonight&hide_border=true" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=abdullahawaisdev&color=blue)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahawaisdev&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahawaisdev&theme=react-dark&hide_border=true" width="95%"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=abdullahawaisdev&theme=tokyonight&no-frame=true&row=1&column=7" width="95%"/>
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+## 🐍 Contribution Snake
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/abdullahawaisdev/abdullahawaisdev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
+
+> ⚙️ Yeh animated snake tabhi chalega jab tu apne profile repo me **GitHub Actions "Snake"** workflow set karega (README me instructions milengi agar chahiye).
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+
+<div align="center">
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mirzawais512@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ᴀʙᴅᴜʟʟᴀʜ-ᴀᴡᴀɪs-82606338a)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abdullahawaisdev)
+
+<br/>
+
+⭐️ **If you like my project, then don't forget to give me star**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
