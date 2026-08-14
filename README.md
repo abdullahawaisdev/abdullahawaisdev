@@ -129,8 +129,6 @@ A Python project developed to practice **data handling, programming logic, and b
 <img src="https://raw.githubusercontent.com/abdullahawaisdev/abdullahawaisdev/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </div>
 
-> ⚙️ Yeh animated snake tabhi chalega jab tu apne profile repo me **GitHub Actions "Snake"** workflow set karega (README me instructions milengi agar chahiye).
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
 <div align="center">
