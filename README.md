@@ -135,25 +135,23 @@ A Python project developed to practice **data handling, programming logic, and b
 
 ## 📫 Connect With Me
 
-<div align="center">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=mirzawais512@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Gmail"/>
+</a>
+&nbsp;&nbsp;&nbsp;
 
-<a href="mailto:mirzawais512@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
+<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C-82606338a" target="_blank">
+  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="45" height="45" alt="LinkedIn"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/abdullahawaisdev" target="_blank">
+  <img src="https://cdn.simpleicons.org/github/181717" width="45" height="45" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%E1%B4%9C%E1%B4%80%E1%B4%9C%E1%B4%80%C9%AA%EA%9C%B1-82606338a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35"/>
-</a>
+<br/><br/>
 
-<a href="https://github.com/abdullahawaisdev">
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" height="35"/>
-</a>
-
-</div>
-
-<br/>
-
-⭐️ **If you like my repositories, dont forget to give stars**
+⭐️ **If you find my projects useful, consider giving them a star!**
 
 </div>
 
