@@ -17,11 +17,11 @@
 ## 🚀 About Me
 
 ```yaml
-name: Abdullah Awais
-role: C++ | Python Developer
-currently_learning: Web Development (HTML, CSS, JS)
-focus: "Understanding the problem before writing the code"
-status: Building toward job-readiness, one project at a time 🌱
+Name: Abdullah Awais
+Role: C++ | Python Developer
+Currently_learning: Web Development (HTML, CSS, JS)
+Focus: "Understanding the problem before writing the code"
+goal: "Build real-world projects, problem solving and become practical developer."
 ```
 
 - 🛠️ Recently completed a **Python Programming Internship** at **CodeAlpha** — built small tools and apps
@@ -50,25 +50,46 @@ status: Building toward job-readiness, one project at a time 🌱
 
 ## 📌 Featured Projects
 
-<div align="center">
+### 🎓 Smart Campus System
 
-<a href="https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha-Smart-prtfolio-tracker&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/abdullahawaisdev/CodeAlpha_Hangman_Game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha_Hangman_Game&theme=tokyonight&hide_border=true" />
-</a>
-<br/>
-<a href="https://github.com/abdullahawaisdev/CodeAlpha_Basic_chatbot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=CodeAlpha_Basic_chatbot&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/abdullahawaisdev/Smart_Campus_System">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=abdullahawaisdev&repo=Smart_Campus_System&theme=tokyonight&hide_border=true" />
-</a>
+A C++ based campus management system developed to practice **Object-Oriented Programming, file handling, and real-world problem solving**.
 
+**Tech:** `C++` `OOP` `File Handling`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/Smart_Campus_System)
+
+---
+
+### 🎮 Hangman Game
+
+A Python-based Hangman game developed as part of my programming practice and **CodeAlpha internship**.
+
+**Tech:** `Python` `Game Logic` `Functions`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/CodeAlpha_Hangman_Game)
+
+---
+
+### 🤖 Basic Chatbot
+
+A beginner-friendly Python chatbot created to practice **conditional logic, functions, and basic conversational programming**.
+
+**Tech:** `Python` `Conditional Logic` `Functions`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/CodeAlpha_Basic_chatbot)
+
+---
+
+### 📊 Smart Portfolio Tracker
+
+A Python project developed to practice **data handling, programming logic, and building practical applications**.
+
+**Tech:** `Python` `Data Handling`
+
+🔗 [View Repository](https://github.com/abdullahawaisdev/CodeAlpha-Smart-prtfolio-tracker)
+
+---
 </div>
-
-> 💡 Tip: agar yeh pinned cards render na hoon, GitHub profile settings me repos ko **manually "Pin"** kar dena — tab yeh live data khud fetch karte hain.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
