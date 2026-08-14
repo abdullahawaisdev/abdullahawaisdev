@@ -139,7 +139,7 @@ A Python project developed to practice **data handling, programming logic, and b
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/%E1%B4%80%CA%99%E1%B4%85%E1%B4%9C%CA%9F%CA%9F%E1%B4%80%CA%9C%E2%80%93%E1%B4%80%E1%B4%A1%E1%B4%80%C9%AA%EA%9C%B1%E2%80%9382606338a">
+<a href="www.linkedin.com/in/ᴀʙᴅᴜʟʟᴀʜ-ᴀᴡᴀɪs-82606338a">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
