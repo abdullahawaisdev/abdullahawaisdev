@@ -29,18 +29,18 @@
 ## 🚀 About Me
 
 ```yaml
-name: Abdullah Awais
-role: Frontend Developer | Python Learner
-education: BS Software Engineering
-university: University of Sargodha
+Name: Abdullah Awais
+Role: Frontend Developer | Python Learner | C++ developer
+Education: BS Software Engineering
+University: University of Sargodha
 
-currently_learning:
+Currently_learning:
   - JavaScript
   - jQuery
   - Python
   - Frontend Development
 
-technologies:
+Technologies:
   - HTML
   - CSS
   - Bootstrap
@@ -49,9 +49,9 @@ technologies:
   - Python
   - C++
 
-mindset: "Understand the problem first, then write the code."
+Mindset: "Understand the problem first, then write the code."
 
-goal: "Build real-world projects and become job-ready."
+Goal: "Build real-world projects, problem solver and become practical developer."
 ```
 
 * 💻 Building my foundation in **Frontend Development**
